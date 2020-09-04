@@ -1,0 +1,40 @@
+.profile {
+    text-align: center;
+    margin: 20px auto;
+    width: 300px;
+    background-color: white;
+    padding-top: 10px;
+  }
+  .name {
+    font-size: 25px;
+  }
+  .tag {
+    color: gray;
+  }
+  .location {
+    color: gray;
+  }
+  
+  .avatar {
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+  }
+  .stats {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    list-style: none;
+    background-color: rgb(230, 230, 230);
+  }
+  .stats li{
+    width: 100px;
+  }
+  .quantity {
+    display: block;
+  }
+  .label {
+    color: gray;
+  }

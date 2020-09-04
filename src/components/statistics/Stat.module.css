@@ -1,0 +1,28 @@
+.label {
+    color:white;
+    display: block;
+  }
+  .statistics {
+    text-align: center;
+    width: 300px;
+    margin: 20px auto;
+    padding: 20px 0 0 0;
+    background-color: white;
+    color: grey;
+  }
+  
+  .statList {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding: 0;
+  }
+  .item {
+    color: white;
+    width: 60px;
+  
+  }
+  .percentage {
+    font-size: 20px;
+  }
+  
